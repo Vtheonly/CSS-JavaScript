@@ -8,3 +8,7 @@ const y = x.reduce((x, y) => {return x + y
 console.log(y)
 
 
+the neggga 
+the neggga 
+the neggga 
+the neggga 
